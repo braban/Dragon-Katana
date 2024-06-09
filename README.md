@@ -1,4 +1,10 @@
-Adds an ever so slightly overpowered sword
+Adds an ever so slightly overpowered swordAdds an ever so slightly overpowered sword
+
+---
+
+crafting recipe is nether star + netherite sword + dragon egg
+
+have fun finding out the combination of these 3 items!!!
 
 very funnie
 
