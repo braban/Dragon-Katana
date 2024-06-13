@@ -1,4 +1,4 @@
-Adds an ever so slightly overpowered swordAdds an ever so slightly overpowered sword
+Adds an ever so slightly overpowered sword
 
 ---
 
